@@ -1,0 +1,1 @@
+A comphrensive SQL- based analysis of Chinook music database containing 11 csv files. I utilized Power Query to standardize the data type of each column in the eleven files, imported files, joined tables, CTE, Views and calculated key metrics using PostgresSql. I deployed PowerBI for data visualisation.
